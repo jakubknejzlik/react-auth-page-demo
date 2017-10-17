@@ -4,8 +4,7 @@ window.CONFIG = {
   USER_CREDENTIALS_ENABLED: true,
   OAUTH_AUTH_URL: "https://react-auth-page.eu.auth0.com/auth",
   OAUTH_TOKEN_URL: "https://react-auth-page.eu.auth0.com/oauth/token",
-  OAUTH_REDIRECT_URL:
-    "https://jakubknejzlik.github.io/react-auth-page-demo/secret-page.html",
+  OAUTH_REDIRECT_URL: "../",
   OAUTH_CLIENT_ID: "7c5zatls1niu0SJv6Qr6c9GwCD0oxemO",
   OAUTH_SCOPE: "email",
   OAUTH_AUDIENCE: "https://react-auth-page.eu.auth0.com/userinfo"
